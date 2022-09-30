@@ -4,5 +4,4 @@ Solution of Linear Algebraic Equations
 
 Authors: Yi Huang, and Ziyang Meng
 
-Affiliation: the School of Automation, Beijing Institute of Technology, Beijing 100081, China; the Department of Precision Instrument, Tsinghua U-
-niversity, Beijing 100084, China
+Affiliation: the School of Automation, Beijing Institute of Technology, Beijing 100081, China; the Department of Precision Instrument, Tsinghua University, Beijing 100084, China
