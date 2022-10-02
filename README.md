@@ -1,4 +1,4 @@
-# Matlab_Codes1
+# Matlab-Codes1
 This repository contains source code to reproduce the results presented in the following paper: Distributed Algorithms for Solving a Least Square
 Solution of Linear Algebraic Equations
 
